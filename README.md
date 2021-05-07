@@ -1,4 +1,5 @@
 # DSVendas
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/renancvalladao/projeto-sds3/blob/main/LICENSE) 
 
 # Sobre o projeto
 

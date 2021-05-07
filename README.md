@@ -7,7 +7,7 @@ https://renanvalladao-dsvendas.netlify.app/
 
 DSVendas é uma aplicação full stack web construída durante a 3ª edição da **Semana DevSuperior** (#sds3), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
-A aplicação consiste em exibir um dashboard a partir de dados fornecidos por um backend construído com Spring Boot.
+A aplicação consiste em exibir um dashboard a partir de dados fornecidos por um back end construído com Spring Boot.
 
 # Tecnologias utilizadas
 ## Back end
